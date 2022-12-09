@@ -27,7 +27,7 @@
   "dependencies": {
     "bootstrap": "4.1.1",
     "bootstrap-sass": "^3.3.7",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "font-awesome": "^4.7.0",
     "jquery": "3.3.1",
     "tether": "1.4.4"
